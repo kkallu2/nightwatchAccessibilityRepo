@@ -3,7 +3,7 @@
 2. create a separate branch
 3. checkout the branch
 4. do git install
-5. if u want to run specific test file then user npx nightwatch <give the file location ,relative path>
+5. if u want to run specific test file then use npx nightwatch <give the file location ,relative path>
 6. if u want to run entire folder npx nightwatch <give folder location>
 7. if u want to comment test case then do add ''+ before function
 8. do install nightwatch pre-release plugin for easy running test cases and debugging test cases[ debugging will only be better when u use async and await for each step rather chaining]
