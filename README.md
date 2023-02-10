@@ -1,3 +1,4 @@
+//some useful tips
 Clone the repo
 create a separate branch
 checkout the branch
