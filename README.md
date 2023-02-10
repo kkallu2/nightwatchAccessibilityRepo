@@ -5,7 +5,7 @@
 4. do git install
 5. if u want to run specific test file then use npx nightwatch <give the file location ,relative path>
 6. if u want to run entire folder npx nightwatch <give folder location>
-7. if u want to comment test case then do add ''+ before function
+7. if u want to comment test case then do add ' '+ before function
 8. do install nightwatch pre-release plugin for easy running test cases and debugging test cases[ debugging will only be better when u use async and await for each step rather chaining]
 9. u can even mention ur test files location in nightwatch config src_folders["here goes ur tests location relative path"] and simply run nightwatch keyword in terminal
 10. If u wanna run in different browser then install that driver and update environment named 
