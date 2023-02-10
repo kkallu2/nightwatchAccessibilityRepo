@@ -1,0 +1,4 @@
+node_modules
+nightwatch
+allure-results
+tests_output
